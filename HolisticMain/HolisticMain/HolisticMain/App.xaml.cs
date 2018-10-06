@@ -11,7 +11,7 @@ namespace HolisticMain
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new LoginScreen();
         }
 
         protected override void OnStart()
