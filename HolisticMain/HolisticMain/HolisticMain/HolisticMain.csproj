@@ -14,9 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\LoginScreenController\" />
     <Folder Include="Models\LoginScreenModels\" />
-    <Folder Include="ViewModels\LoginScreenViewModel\" />
   </ItemGroup>
 
   <ItemGroup>
